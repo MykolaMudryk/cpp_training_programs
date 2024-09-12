@@ -1,0 +1,1 @@
+A simple console-based calculator capable of performing basic arithmetic operations: addition, subtraction, multiplication, and division. The program takes input from the user for two numbers and an operator, then outputs the result. Implemented using procedural programming without object-oriented principles.
