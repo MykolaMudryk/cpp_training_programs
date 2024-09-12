@@ -1,4 +1,4 @@
-#include "internetexplorer.h"
+#include "../include/internetexplorer.h"
 #include <QDebug>
 
 InternetExplorer::InternetExplorer(QObject *parent)
