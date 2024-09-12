@@ -1,8 +1,8 @@
 #include <QCoreApplication>
 
-#include "UserInteractor.h"
-#include "Firefox.h"
-#include "internetexplorer.h"
+#include "../include/UserInteractor.h"
+#include "../include/Firefox.h"
+#include "../include/internetexplorer.h"
 
 int main(int argc, char *argv[])
 {

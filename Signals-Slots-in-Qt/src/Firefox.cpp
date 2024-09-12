@@ -1,4 +1,4 @@
-#include "Firefox.h"
+#include "../include/Firefox.h"
 #include <QDebug>
 
 Firefox::Firefox(QObject *parent)
