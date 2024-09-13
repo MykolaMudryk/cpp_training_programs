@@ -1,5 +1,7 @@
 # GUI Calculator Application README
 
+![Calculator Demo](Calculator/guicalculator/calculator_demo.gif)
+
 ## Overview
 This project is a simple Calculator application with a graphical user interface (GUI) designed using QML. The logic behind the calculator, such as handling operations and operand management, is implemented in C++. The application utilizes Qt to connect the C++ backend with the QML frontend, particularly using Q_PROPERTY for updating and displaying data in the text fields, as well as signals and slots for communication between different components of the application.
 
